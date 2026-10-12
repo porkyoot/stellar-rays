@@ -1,0 +1,19 @@
+{
+  "stellar_rays.title": "Stellar Rays",
+  "stellar_rays.config.title": "Stellar Rays Configuration",
+  "stellar_rays.config.category.general": "General",
+  "stellar_rays.config.category.rendering": "Ray Rendering",
+  "stellar_rays.config.category.lighting": "Lighting & Vision",
+  "stellar_rays.config.enabled": "Enable Stellar Rays",
+  "stellar_rays.config.enabled.tooltip": "Master switch to enable or disable client-side ray features.",
+  "stellar_rays.config.ray_tracing_distance": "Ray Tracing Distance",
+  "stellar_rays.config.ray_tracing_distance.tooltip": "Maximum block distance for targeted ray casting.",
+  "stellar_rays.config.fullbright_boost": "Fullbright Boost",
+  "stellar_rays.config.fullbright_boost.tooltip": "Client-side brightness booster for dark caves and night environments.",
+  "stellar_rays.config.show_targeted_ray": "Show Targeted Ray",
+  "stellar_rays.config.show_targeted_ray.tooltip": "Render target vectors and line-of-sight ray indicators.",
+  "stellar_rays.config.ray_thickness": "Ray Thickness",
+  "stellar_rays.config.ray_thickness.tooltip": "Width of rendered ray traces in pixels.",
+  "stellar_rays.config.ray_color": "Ray Color (Hex ARGB)",
+  "stellar_rays.config.ray_color.tooltip": "Hexadecimal color format for visual rays (#AARRGGBB)."
+}
